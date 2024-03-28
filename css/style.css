@@ -1,0 +1,11 @@
+
+.continer{
+    width: 70%;
+    margin:auto;
+    text-align: center;
+    background-color: pink;
+}
+.width{
+    margin: 10px 30px;
+    padding: 10px 30px;
+}
